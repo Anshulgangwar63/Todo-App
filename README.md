@@ -2,7 +2,7 @@
 Simple Todo App using ReactJS framework
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Run the app Use the command below
+## Use the below code to run the app
 ### `npm start`
 
 Runs the app in the development mode.<br>
